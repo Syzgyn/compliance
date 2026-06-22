@@ -1,0 +1,11 @@
+loan_id,finding_type,severity,status,review_date
+LN-1001,TRID Disclosure,High,Open,2025-01-15
+LN-1002,HMDA Data Quality,Medium,Closed,2025-01-10
+LN-1003,Fair Lending Review,Critical,Open,2025-01-18
+LN-1004,Appraisal Compliance,Low,Closed,2025-01-05
+LN-1005,TRID Disclosure,Medium,Open,2025-01-12
+LN-1006,QC Post-Close,High,Open,2025-01-20
+LN-1007,HMDA Data Quality,Low,Closed,2025-01-08
+LN-1008,Fair Lending Review,High,Closed,2025-01-14
+LN-1009,Appraisal Compliance,Critical,Open,2025-01-22
+LN-1010,QC Post-Close,Medium,Open,2025-01-19
