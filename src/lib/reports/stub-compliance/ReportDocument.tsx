@@ -164,7 +164,12 @@ export function StubComplianceReportDocument({
               <CartesianGrid stroke="#e2e8f0" />
               <XAxis dataKey="label" tick={{ fontSize: 10 }} />
               <YAxis tick={{ fontSize: 10 }} allowDecimals={false} />
-              <Bar dataKey="count" fill="#1e3a5f" radius={[4, 4, 0, 0]} />
+              <Bar
+                dataKey="count"
+                fill="#1e3a5f"
+                radius={[4, 4, 0, 0]}
+                isAnimationActive={false}
+              />
             </BarChart>
           </ReactPDFChart>
         </View>
